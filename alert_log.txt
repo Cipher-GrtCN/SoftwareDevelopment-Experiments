@@ -1,4 +1,0 @@
-[2026-07-07 10:15:32] City: Beijing | Rainfall: 25.5 mm/h | Alert Level: RED | Status: Heavy - ALERT
-[2026-07-07 10:20:45] City: Shanghai | Rainfall: 32.1 mm/h | Alert Level: RED | Status: Heavy - ALERT
-[2026-07-07 10:25:18] City: Shenzhen | Rainfall: 42.3 mm/h | Alert Level: RED | Status: Heavy - ALERT
-[2026-07-07 10:30:22] City: Beijing | Rainfall: 22.4 mm/h | Alert Level: RED | Status: Heavy - ALERT

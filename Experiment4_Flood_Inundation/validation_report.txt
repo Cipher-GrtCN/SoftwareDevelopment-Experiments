@@ -1,0 +1,19 @@
+============================================================
+FLOOD INUNDATION VALIDATION REPORT
+============================================================
+
+DEM Size: (100, 100)
+Elevation Range: [30.0, 80.0] m
+Water Level Range: [35.0, 55.0] m
+
+============================================================
+PHYSICAL VALIDATION:
+============================================================
+  ✅ Flooded area increases monotonically
+  ✅ Max depth correct: 25.00m
+  ✅ All percentages in valid range [0, 100]
+  ✅ Below min elevation: 0% flooded
+  ✅ Above max elevation: ~100% flooded
+
+Overall: ✅ ALL CHECKS PASSED
+============================================================
